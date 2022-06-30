@@ -1,0 +1,31 @@
+{
+  "name": "nd1309-p2-decentralized-star-notary-service-starter-code-main",
+  "version": "1.0.0",
+  "description": "1.ERC-721 Token Name: Edu Crypto Star     2.ERC-721 Token Symbol: ECS     3.Token tracker address: https://rinkeby.etherscan.io/     4.Tools versions:         Truffle - 5.0.2         OpenZeppelin - 2.3.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+
+  "devDependencies": {
+    "webpack": "^4.28.1",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14",
+    "copy-webpack-plugin": "^11.0.0"
+  },
+
+  "dependencies": {
+  "truffle-hdwallet-provider": "^1.0.17",
+  "web3": "^1.3.5"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+ 
+}
